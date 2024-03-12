@@ -1,0 +1,19 @@
+{
+  "name": "swap-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jup-ag/core": "^4.0.0-beta.21",
+    "@solana/spl-token": "^0.1.8",
+    "@solana/web3.js": "^1.91.0",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security"
+  }
+}

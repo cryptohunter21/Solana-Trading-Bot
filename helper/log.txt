@@ -1,0 +1,5 @@
+
+
+--------------- sol swap -----------------
+[{"name":"Orca","address":"orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE","price":0,"date":"2024-03-12T00:50:21.204Z","amount":0.5360321810137791,"lostTime":0}]
+ log time: Tue Mar 12 2024 14:16:09 GMT-0700 (Pacific Daylight Time)

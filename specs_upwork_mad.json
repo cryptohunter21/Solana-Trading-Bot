@@ -1,0 +1,66 @@
+This process should be fast and reliable, if there is a failure somewhere, the bot should throw an error and stop running.
+
+A trading script in the Solana or eth blockchain designed to monitor every new line added to a text file. It utilizes each line as the contract address of a token intended for swapping with my Solana/Eth coins in my “Phantom” wallet .The swap used is "Jupiter" or others . The transaction is subject to the following conditions:
+
+0-The amount to trade per token or contract address is 3 Solanas/1 eth (One only trade per token)
+
+1-After buying the token, the duration of the trade lasts until the price of the purchased token reaches at least 2.2 times of the original price or wait for a certain market Ex. sell_marketcap = 40000000000
+Once that happens you swap the token back to Solana/Eth. Buf if the price condition wasn't satisfied  {within the X-seconds window of opening the trade you just  proceed with swapping back to solana/Eth regardless even with loss.} 
+
+The trading window subject to change in the config file using Trade_window and the desired profit is subject to change too from the config file using profit_ratio
+If Trade_window is set, sell_marketcap will be ignored. (if Trade_window is NULL, the trigger would be sell_marketcap )
+
+When the trade is open, the script keep analyzing the order book while the trade is open if something of the following detected, the trade should be terminated asap (all these here are variables, I can turn on the check or disable it individually in the config file) : 
+ Bot buys and sell, same address and the same amount and keep repeating
+ lot of sell orders with the value of zero (if more than 10 percent after analyzing the first 30 trades in the order boot) 
+Every buy is followed by a sell for the last 10 trades
+buy trades per second more than 10 trades per minutes (each trade should exceed 0.09 sol / eth) and its total is more than double than sell trades total in the same period this is to make sure marketcap is moving forward and there is no sideways trading (If you have a better indicator of growing marketcap add it optionally in the config)
+Honeypot, the selling don’t go through (That can be checking a random sell transactions using solscan.io/Etherscan to make sure the holders are able to sell )
+Every 10 second check of using BirdEye API for a probable rugpull 
+
+Also, you end the trade if the 
+
+
+2-Once the transaction is completed, the profit should be recorded, including the times and the contract address of the token in a csv file that you will keep updating for each trade.
+
+3-The script should log the number of the last processed line in 'last_line.lock.' This ensures that in case the script is restarted, it can resume from where it left off.
+
+4-if the last 2 trades are not profitable stop the bot but of course log the last processed line so when I start it again it continue when it was left off
+The number of max last lost trades are subject to change in the config file.
+
+5-everything that is done using the script should be logged in log.txt for debugging purposes 
+
+6- the bot support more than one simultaneous trades meaning you will swap and trade 5 different token at a time, the number of simultaneous trades can be set in simultaneous_trades
+
+7-we may need to add an indicator or two to the parameters for example indicator_RSI = 1 for enabled, 0 for disabled or something else that can be appropriate for short trading in crypto, always we use one minute candlestick 
+
+
+
+Some parameters : 
+
+Trade_size:3
+#Amount to trade is the initial amount available for trading, by default is set to 3 Solana/ Eth
+Trade_window: random(2000:3000)
+#The parameter Trade_window can take a random value from 2000 to 3000 minutes.
+Max_marketcap : random(200000000000000:400000000000000) (in dollar)
+#when the coin achieve that market cup you close the trade instead of using the time trade_window
+Profit_ratio: random(2.2:3.6)
+#The parameter Profit_ratio can take a random value from 2.2 X to 3.6 X
+Continue_from_when_left_off : yes
+#is this parameter is set meaning, always pick up from where you left of by reading the last processed line number from last_line.lock
+simultaneous trades=1
+#by default the bot support only one token at a time but this can change if I want to trade 5 different contract addresses
+Max_last_lost_trades=2
+#if there is no profit in the last two trades in a row, just record the last processed contract address line  and stop.
+Sol_DEX_swap=Jupiter/Raydium 
+Eth_DEX_swap=Uniswap
+#Supported DEX are Jupiter/Raydium/Uniswap
+Minimum_supply
+#other options : 
+Set_percentage = 0.2 #sol or eth size to sell
+Detect_rugs_with_BirdEye=1
+#this feature allows you to check every 10 seconds for possible rugpulls, if a rugpull detected you exit from the trade.
+Chain=SOL #default SOL, it can be switched to ETH
+Keep_some=0.2 (solana or ether)
+Sel_interval = random (120:240)  #interval between sells in seconds
+gas_Speed = Fast #make sure you are using the fastest transactio
