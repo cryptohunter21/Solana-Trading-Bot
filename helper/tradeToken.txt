@@ -1,0 +1,1 @@
+[{"name":"Orca","symbol":"ORCA","initialPrice":0.9357788331596878,"amount":42.24745388119336,"changed":1,"lostTime":0,"currentPrice":4.576303689168064,"marketCap":223122181.13734043},{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.4876533963432683,"amount":20.268622107043836,"changed":0,"lostTime":4,"currentPrice":0.00017837707860484634,"marketCap":14641229.540007537}]

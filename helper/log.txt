@@ -1,5 +1,1615 @@
 
-
---------------- sol swap -----------------
-[{"name":"Orca","address":"orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE","price":0,"date":"2024-03-12T00:50:21.204Z","amount":0.5360321810137791,"lostTime":0}]
- log time: Tue Mar 12 2024 14:16:09 GMT-0700 (Pacific Daylight Time)
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 06:50:01 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.0582964820314185,"amount":25.350795520107596,"currentPrice":4.418004127238497,"marketCap":215404130.57653698,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 06:50:01 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.9951823609800897,"amount":23.459784574648452,"currentPrice":0.00017858449664885987,"marketCap":14658254.458326044,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 07:50:58 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.818694861372513,"amount":13.91250756555365,"currentPrice":4.402587748608064,"marketCap":214652489.83618116,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 07:50:58 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.2993966596474748,"amount":23.802383280198285,"currentPrice":0.00017752639910542325,"marketCap":14571405.58104685,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 07:51:47 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.26677187153067206,"amount":29.227415946474558,"currentPrice":4.411269827430629,"marketCap":215075793.11657727,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 07:51:47 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.3306606941467616,"amount":37.030506803355415,"currentPrice":0.00017770179736879168,"marketCap":14585802.30878217,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 07:52:46 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.1663428438521577,"amount":30.823970701847074,"currentPrice":4.405524828520048,"marketCap":214795690.05204386,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 07:52:46 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.7834195166698577,"amount":23.608516195940986,"currentPrice":0.00017833962741161115,"marketCap":14638155.53789363,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 07:53:50 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.5443749169132057,"amount":32.35288498843485,"currentPrice":4.409023499365914,"marketCap":214966271.18547383,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 07:58:43 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.44930240897512624,"amount":14.565968229541125,"currentPrice":4.407089819144938,"marketCap":214871992.70706967,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 07:58:43 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.3015909686660256,"amount":28.45185509275546,"currentPrice":0.00017872544021833582,"marketCap":14669823.13726745,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:05:12 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.934490911183099,"amount":12.449372096947311,"currentPrice":4.438241272534377,"marketCap":216390812.41354185,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:05:12 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.18087068530570155,"amount":40.29809562750768,"currentPrice":0.0001782309378548533,"marketCap":14629234.275355082,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.1179685331806515,"amount":15.256710595023538,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":4.062492238848498,"amount":36.15567336426362,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.0618642293694291,"amount":21.12341978466138,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.8202275025141894,"amount":38.03410469538773,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.512917481035517,"amount":24.6210393238499,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.64489303424063,"amount":36.17615657504136,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.038585304557807,"amount":38.47503889922499,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.9804608612743193,"amount":25.799969608126258,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.15615175176425733,"amount":42.52704923827597,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.907333142173801,"amount":20.061312064982502,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.374955453806766,"amount":10.78166245946685,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.1208262821874087,"amount":18.606250230335352,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.3085562394988333,"amount":13.845795053827073,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.5427761412432022,"amount":22.691580569124625,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.5318137045738178,"amount":10.626659776578398,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.033288887124248455,"amount":34.69318353124182,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.0541431608616407,"amount":22.648555744349338,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.6451587026621732,"amount":26.711490624339717,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.6769700123563536,"amount":33.601954096950685,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.2282963716440976,"amount":11.137314985902183,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.2519383316824393,"amount":34.50665500265702,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.7306335793344285,"amount":27.6401749662517,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.118946620963547,"amount":31.332432109981,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.015947711516626,"amount":36.86767290487174,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.4672547425920004,"amount":32.878641578751974,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.5977692988221484,"amount":45.349700361769564,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.2853878128312268,"amount":23.880612702920608,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.3596649937164327,"amount":43.644349705239186,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.9873757324702908,"amount":29.098762421996824,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.6865427938937542,"amount":35.63539287935491,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.2729929075433235,"amount":21.807960740990936,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.5992811274563552,"amount":24.94664793738799,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.5381120603070781,"amount":21.976295183410134,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.2897213575430266,"amount":17.19472682052659,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.457896402262603,"amount":29.808624113103598,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.37594595071812414,"amount":32.83924505657807,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.2554394145502317,"amount":30.21453369278135,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.3097083774928167,"amount":15.219813031787412,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.9889072206705136,"amount":23.832310345279534,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.049355947237734,"amount":38.023794289744785,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.938394659938825,"amount":45.54389716525536,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.25119750588014844,"amount":13.650596689859295,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.154878556724806,"amount":15.464994251157636,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.1458226758582795,"amount":35.64503305679559,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.6244350612686608,"amount":15.77357880613469,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.4529812012300976,"amount":24.194695610000245,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.0502569530646566,"amount":43.4826179512316,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.5152833208736814,"amount":11.972703135601106,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.2003850280543813,"amount":18.1079898197812,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.2401511533895713,"amount":14.701328230933314,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.748629133256173,"amount":38.94960263771798,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.1079514139225024,"amount":29.026924793624566,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.8140892839186478,"amount":33.5644151459118,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.6194581458776067,"amount":19.232680263142818,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.6193092501264543,"amount":21.0879331797372,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.507584310959346,"amount":37.37052715476747,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.236364753535603,"amount":32.1672029522206,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.4178477209337395,"amount":18.753936480019647,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4269370693956693,"amount":42.11242134106487,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.518605582110122,"amount":43.90108691118663,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.5023403427830386,"amount":39.53351012920469,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.775287419154624,"amount":17.82418115218881,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.8003632614301863,"amount":30.104880403345824,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.8797718324462631,"amount":27.62425411571173,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":4.099781660525828,"amount":11.844681573089957,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.15995161432416974,"amount":43.48197014063388,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.438159397252544,"amount":13.770726657837379,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.235075797256493,"amount":36.912508516307426,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.9475598116373076,"amount":28.629675975641426,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.9301714146875637,"amount":32.128109220096974,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.977197830260559,"amount":13.530900135078682,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.844824486592,"amount":39.52072589805851,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.662455056186806,"amount":43.58171258520645,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.5071195771285635,"amount":25.231687013585308,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.8778734061157718,"amount":30.889471648420425,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.7492654542485615,"amount":11.661494818567743,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.564608974709137,"amount":36.320538518108556,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.15695627170946083,"amount":16.43006365193142,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.1030669816667875,"amount":44.80444160556282,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.5958950495452395,"amount":28.397383080025037,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":4.052782669696662,"amount":36.678005772994986,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.8585166323061806,"amount":22.15514885144041,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.142229672853476,"amount":34.40636075168384,"currentPrice":4.439875177961599,"marketCap":216470475.0774424,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:06:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.1021538373726587,"amount":41.16656908025958,"currentPrice":0.0001781621779199828,"marketCap":14623590.444895087,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:08:09 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.395033798507678,"amount":23.020194377804724,"currentPrice":4.42620340169638,"marketCap":215803894.19742694,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:08:09 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.8281802210755134,"amount":23.227975585429682,"currentPrice":0.00017873534035778264,"marketCap":14670635.7428738,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:08:09 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.6469009319207131,"amount":26.94406829326705,"currentPrice":4.42620340169638,"marketCap":215803894.19742694,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:08:09 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.5407226960536019,"amount":45.071320810777245,"currentPrice":0.00017873534035778264,"marketCap":14670635.7428738,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:08:09 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.0175995028856428,"amount":22.641988350511973,"currentPrice":4.42620340169638,"marketCap":215803894.19742694,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:08:09 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.1137866284988749,"amount":22.122466283516573,"currentPrice":0.00017873534035778264,"marketCap":14670635.7428738,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:08:09 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.5861038060760193,"amount":39.11063066432939,"currentPrice":4.420581599439841,"marketCap":215529797.70676318,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:08:09 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.718940630320456,"amount":11.73355457683091,"currentPrice":0.00017876370363032525,"marketCap":14672963.80647396,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:09:58 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.07039466297328259,"amount":27.929553331920573,"currentPrice":4.4219642762612725,"marketCap":215597211.4732356,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:09:58 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.6241825208367926,"amount":11.3670633282629,"currentPrice":0.00017870269970243955,"marketCap":14667956.590759909,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:10:19 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.5083644731214739,"amount":39.767745805815885,"currentPrice":4.4219642762612725,"marketCap":215597211.4732356,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:10:19 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.8199462379041822,"amount":19.21786117466231,"currentPrice":0.00017870269970243955,"marketCap":14667956.590759909,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:10:19 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.5782028943191406,"amount":22.867152033024425,"currentPrice":4.4219642762612725,"marketCap":215597211.4732356,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:10:19 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.7681250966055408,"amount":28.882681759660237,"currentPrice":0.00017870269970243955,"marketCap":14667956.590759909,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:10:19 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.7889950811763415,"amount":43.536750005722,"currentPrice":4.4219642762612725,"marketCap":215597211.4732356,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:10:19 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.24455336231822156,"amount":24.690198226643652,"currentPrice":0.00017870269970243955,"marketCap":14667956.590759909,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:10:19 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.8774241180479303,"amount":30.26758027777346,"currentPrice":4.4219642762612725,"marketCap":215597211.4732356,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:10:19 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.2528911352325212,"amount":23.66588273907195,"currentPrice":0.00017870269970243955,"marketCap":14667956.590759909,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:10:19 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.13814881416027455,"amount":41.7445040583564,"currentPrice":4.4219642762612725,"marketCap":215597211.4732356,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:10:19 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.6884076147647007,"amount":24.824414178217474,"currentPrice":0.00017870269970243955,"marketCap":14667956.590759909,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:10:19 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.8967751127198262,"amount":15.306227655018581,"currentPrice":4.4219642762612725,"marketCap":215597211.4732356,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:10:19 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":4.102808009911626,"amount":24.937348657688233,"currentPrice":0.00017870269970243955,"marketCap":14667956.590759909,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:10:19 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.273417032385342,"amount":24.83334394093872,"currentPrice":4.4219642762612725,"marketCap":215597211.4732356,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:10:19 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.44859304519960724,"amount":10.821069014480425,"currentPrice":0.00017870269970243955,"marketCap":14667956.590759909,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:10:19 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.0668892270192913,"amount":45.34065014390948,"currentPrice":4.4219642762612725,"marketCap":215597211.4732356,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:10:19 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.454833474912207,"amount":42.50035857149917,"currentPrice":0.00017870269970243955,"marketCap":14667956.590759909,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:11:45 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.17164822207341818,"amount":19.53736291417171,"currentPrice":4.418792420515511,"marketCap":215442564.53100392,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:14:44 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.24299857186092927,"amount":41.91279448489703,"currentPrice":4.435420894328312,"marketCap":216253302.10397384,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:17:36 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.60129940496106,"amount":37.68011640672956,"currentPrice":4.445281550764735,"marketCap":216734068.09351406,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:27:54 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.0501818291928726,"amount":12.29293731587019,"currentPrice":4.469797683167279,"marketCap":217929376.2081617,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:37:30 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.13976488420782412,"amount":40.85343412730453,"currentPrice":4.508399703968817,"marketCap":219811455.6466415,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:37:30 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.13976488420782412,"amount":40.85343412730453,"currentPrice":4.508399703968817,"marketCap":219811455.6466415,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:37:30 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.13976488420782412,"amount":40.85343412730453,"currentPrice":4.508399703968817,"marketCap":219811455.6466415,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:37:30 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.13976488420782412,"amount":40.85343412730453,"currentPrice":4.508399703968817,"marketCap":219811455.6466415,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:37:30 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.13976488420782412,"amount":40.85343412730453,"currentPrice":4.508399703968817,"marketCap":219811455.6466415,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.7057368423721093,"amount":20.011629728515878,"currentPrice":4.508399703968817,"marketCap":219811455.6466415,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.22433984297505272,"amount":33.62168029551647,"currentPrice":0.00017935862500921833,"marketCap":14721795.08308617,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.5699850891528357,"amount":30.04267374982151,"currentPrice":4.508399703968817,"marketCap":219811455.6466415,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.9145357769033433,"amount":36.57323355227978,"currentPrice":0.00017935862500921833,"marketCap":14721795.08308617,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.6858967020172342,"amount":45.5233387918058,"currentPrice":4.508399703968817,"marketCap":219811455.6466415,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9992157948492877,"amount":17.02283190549035,"currentPrice":0.00017935862500921833,"marketCap":14721795.08308617,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.9965591464818748,"amount":17.907384377889727,"currentPrice":4.508399703968817,"marketCap":219811455.6466415,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.613155965553442,"amount":21.136269945256817,"currentPrice":0.00017935862500921833,"marketCap":14721795.08308617,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.464999121591676,"amount":19.951431634633185,"currentPrice":4.508399703968817,"marketCap":219811455.6466415,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.6106696993755922,"amount":21.99584534560301,"currentPrice":0.00017935862500921833,"marketCap":14721795.08308617,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.096655214971281,"amount":14.430922823906021,"currentPrice":4.508399703968817,"marketCap":219811455.6466415,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.36634747032495363,"amount":43.84287414708321,"currentPrice":0.00017935862500921833,"marketCap":14721795.08308617,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.5605776156027584,"amount":33.012128717308286,"currentPrice":4.508399703968817,"marketCap":219811455.6466415,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.4686940674220748,"amount":29.04815739724681,"currentPrice":0.00017935862500921833,"marketCap":14721795.08308617,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.5662639960595737,"amount":15.3452765972979,"currentPrice":4.508399703968817,"marketCap":219811455.6466415,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.5101928373131144,"amount":27.702432621120053,"currentPrice":0.00017935862500921833,"marketCap":14721795.08308617,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.194536693979595,"amount":30.27513549060742,"currentPrice":4.508399703968817,"marketCap":219811455.6466415,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:38:24 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.677350186317117,"amount":39.29473228626607,"currentPrice":0.00017935862500921833,"marketCap":14721795.08308617,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:40:06 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.8564266103511858,"amount":38.5848408650571,"currentPrice":4.516454732773999,"marketCap":220204186.4875614,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:40:06 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.8564266103511858,"amount":38.5848408650571,"currentPrice":4.516454732773999,"marketCap":220204186.4875614,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:44:35 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.42936503611364435,"amount":33.26878042088474,"currentPrice":4.513173923655266,"marketCap":220044227.4166182,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:44:35 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.42936503611364435,"amount":33.26878042088474,"currentPrice":4.513173923655266,"marketCap":220044227.4166182,"changed":1,"lostTime":0}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.5440450125261005,"amount":27.680297945003552,"changed":1,"lostTime":0,"currentPrice":4.501377170560548,"marketCap":219469065.1328989}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.5440450125261005,"amount":27.680297945003552,"changed":1,"lostTime":0,"currentPrice":4.501377170560548,"marketCap":219469065.1328989}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":1,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":2,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":3,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":4,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":5,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":6,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":7,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":8,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":9,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":10,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":11,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":12,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":13,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":14,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":15,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":16,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":17,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":18,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":19,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":20,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":21,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 08:59:26 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.850804642104005,"amount":24.783683147633187,"changed":0,"lostTime":22,"currentPrice":0.00017620823877778868,"marketCap":14463210.693685886}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:01:38 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.432341603533437,"amount":22.746631616846535,"changed":0,"lostTime":1,"currentPrice":4.508000334966412,"marketCap":219791984.01867524}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:01:38 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.1328726404579608,"amount":21.141140121033935,"changed":0,"lostTime":1,"currentPrice":0.00017628293053832035,"marketCap":14469341.40969068}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:01:38 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.432341603533437,"amount":22.746631616846535,"changed":0,"lostTime":2,"currentPrice":4.508000334966412,"marketCap":219791984.01867524}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:01:38 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.1328726404579608,"amount":21.141140121033935,"changed":0,"lostTime":2,"currentPrice":0.00017628293053832035,"marketCap":14469341.40969068}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:01:38 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.432341603533437,"amount":22.746631616846535,"changed":0,"lostTime":3,"currentPrice":4.508000334966412,"marketCap":219791984.01867524}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:01:38 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.1328726404579608,"amount":21.141140121033935,"changed":0,"lostTime":3,"currentPrice":0.00017628293053832035,"marketCap":14469341.40969068}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:01:38 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.432341603533437,"amount":22.746631616846535,"changed":0,"lostTime":4,"currentPrice":4.508000334966412,"marketCap":219791984.01867524}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:01:38 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.1328726404579608,"amount":21.141140121033935,"changed":0,"lostTime":4,"currentPrice":0.00017628293053832035,"marketCap":14469341.40969068}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:01:38 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.432341603533437,"amount":22.746631616846535,"changed":0,"lostTime":5,"currentPrice":4.508000334966412,"marketCap":219791984.01867524}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:01:38 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.1328726404579608,"amount":21.141140121033935,"changed":0,"lostTime":5,"currentPrice":0.00017628293053832035,"marketCap":14469341.40969068}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:02:20 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.5000469756373386,"amount":31.670684243984184,"changed":1,"lostTime":0,"currentPrice":4.508274805136104,"marketCap":219805366.08137888}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:02:20 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.5000469756373386,"amount":31.670684243984184,"changed":1,"lostTime":0,"currentPrice":4.508274805136104,"marketCap":219805366.08137888}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:02:20 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.258085275953818,"amount":21.613134550070328,"changed":0,"lostTime":1,"currentPrice":0.0001764813713350595,"marketCap":14485629.473593757}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:02:20 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.258085275953818,"amount":21.613134550070328,"changed":0,"lostTime":2,"currentPrice":0.0001764813713350595,"marketCap":14485629.473593757}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:02:20 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.258085275953818,"amount":21.613134550070328,"changed":0,"lostTime":3,"currentPrice":0.0001764813713350595,"marketCap":14485629.473593757}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:02:20 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.258085275953818,"amount":21.613134550070328,"changed":0,"lostTime":4,"currentPrice":0.0001764813713350595,"marketCap":14485629.473593757}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.11451051986170946,"amount":29.381766541885455,"changed":1,"lostTime":0,"currentPrice":4.505351619690747,"marketCap":219662843.3038835}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.11451051986170946,"amount":29.381766541885455,"changed":1,"lostTime":0,"currentPrice":4.505351619690747,"marketCap":219662843.3038835}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":1,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":2,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":3,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":4,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":5,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":6,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":7,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":8,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":9,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":10,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":11,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":12,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":13,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":14,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":15,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":16,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":17,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":18,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":19,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":20,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":21,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":22,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:03:14 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.201711041840611,"amount":11.2312657169496,"changed":0,"lostTime":23,"currentPrice":0.00017648022446037123,"marketCap":14485535.337869056}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:04:09 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.12259771776552598,"amount":13.206140074864912,"changed":1,"lostTime":0,"currentPrice":4.504077494267265,"marketCap":219600722.0674356}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:04:09 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.12259771776552598,"amount":13.206140074864912,"changed":1,"lostTime":0,"currentPrice":4.504077494267265,"marketCap":219600722.0674356}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:04:09 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.6403012390438536,"amount":37.23927630259683,"changed":0,"lostTime":1,"currentPrice":0.0001765730927951955,"marketCap":14493157.991058555}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:04:09 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.6403012390438536,"amount":37.23927630259683,"changed":0,"lostTime":2,"currentPrice":0.0001765730927951955,"marketCap":14493157.991058555}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:04:09 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.6403012390438536,"amount":37.23927630259683,"changed":0,"lostTime":3,"currentPrice":0.0001765730927951955,"marketCap":14493157.991058555}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:04:09 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.6403012390438536,"amount":37.23927630259683,"changed":0,"lostTime":4,"currentPrice":0.0001765730927951955,"marketCap":14493157.991058555}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:04:09 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.6403012390438536,"amount":37.23927630259683,"changed":0,"lostTime":5,"currentPrice":0.0001765730927951955,"marketCap":14493157.991058555}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:05:11 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.8644930882714048,"amount":31.018253957353117,"changed":1,"lostTime":0,"currentPrice":4.50416439948713,"marketCap":219604959.21678704}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:05:11 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.8644930882714048,"amount":31.018253957353117,"changed":1,"lostTime":0,"currentPrice":4.50416439948713,"marketCap":219604959.21678704}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:05:11 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.6174408962723401,"amount":18.488050031773092,"changed":0,"lostTime":1,"currentPrice":0.00017623016672540248,"marketCap":14465010.544411471}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:05:11 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.6174408962723401,"amount":18.488050031773092,"changed":0,"lostTime":2,"currentPrice":0.00017623016672540248,"marketCap":14465010.544411471}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:05:11 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.6174408962723401,"amount":18.488050031773092,"changed":0,"lostTime":3,"currentPrice":0.00017623016672540248,"marketCap":14465010.544411471}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:05:11 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.6174408962723401,"amount":18.488050031773092,"changed":0,"lostTime":4,"currentPrice":0.00017623016672540248,"marketCap":14465010.544411471}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:05:11 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.6174408962723401,"amount":18.488050031773092,"changed":0,"lostTime":5,"currentPrice":0.00017623016672540248,"marketCap":14465010.544411471}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.9387463472153506,"amount":21.074896819412388,"changed":1,"lostTime":0,"currentPrice":4.510154398838727,"marketCap":219897007.5184578}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.9387463472153506,"amount":21.074896819412388,"changed":1,"lostTime":0,"currentPrice":4.510154398838727,"marketCap":219897007.5184578}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.32947149561141714,"amount":36.16914086716318,"changed":0,"lostTime":1,"currentPrice":0.00017657923351326401,"marketCap":14493662.022537736}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.32947149561141714,"amount":36.16914086716318,"changed":0,"lostTime":2,"currentPrice":0.00017657923351326401,"marketCap":14493662.022537736}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.3613857052328813,"amount":23.052189252468192,"changed":0,"lostTime":3,"currentPrice":0.00017657923351326401,"marketCap":14493662.022537736}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.04652420517479471,"amount":39.918142029582434,"changed":1,"lostTime":0,"currentPrice":4.510154398838727,"marketCap":219897007.5184578}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.3613857052328813,"amount":23.052189252468192,"changed":0,"lostTime":3,"currentPrice":0.00017657923351326401,"marketCap":14493662.022537736}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.04652420517479471,"amount":39.918142029582434,"changed":1,"lostTime":0,"currentPrice":4.510154398838727,"marketCap":219897007.5184578}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.377691406078135,"amount":19.619458837301604,"changed":0,"lostTime":4,"currentPrice":0.00017657923351326401,"marketCap":14493662.022537736}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.6980503006530836,"amount":25.669182542865897,"changed":1,"lostTime":0,"currentPrice":4.510154398838727,"marketCap":219897007.5184578}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.1064153566269397,"amount":28.006607351030148,"changed":0,"lostTime":4,"currentPrice":0.00017657923351326401,"marketCap":14493662.022537736}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.377691406078135,"amount":19.619458837301604,"changed":0,"lostTime":4,"currentPrice":0.00017657923351326401,"marketCap":14493662.022537736}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.6980503006530836,"amount":25.669182542865897,"changed":1,"lostTime":0,"currentPrice":4.510154398838727,"marketCap":219897007.5184578}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.1064153566269397,"amount":28.006607351030148,"changed":0,"lostTime":4,"currentPrice":0.00017657923351326401,"marketCap":14493662.022537736}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.5008640330179577,"amount":40.506298524908004,"changed":0,"lostTime":5,"currentPrice":0.00017657923351326401,"marketCap":14493662.022537736}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.4694062595177657,"amount":38.5581404192641,"changed":0,"lostTime":5,"currentPrice":0.00017657923351326401,"marketCap":14493662.022537736}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.905795979156292,"amount":34.985819931592935,"changed":0,"lostTime":5,"currentPrice":0.00017657923351326401,"marketCap":14493662.022537736}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.905795979156292,"amount":34.985819931592935,"changed":0,"lostTime":6,"currentPrice":0.00017657923351326401,"marketCap":14493662.022537736}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.9697923858868241,"amount":17.698434080958407,"changed":0,"lostTime":7,"currentPrice":0.00017657923351326401,"marketCap":14493662.022537736}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.39447340490734295,"amount":15.882457097984211,"changed":1,"lostTime":0,"currentPrice":4.510154398838727,"marketCap":219897007.5184578}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.5008640330179577,"amount":40.506298524908004,"changed":0,"lostTime":5,"currentPrice":0.00017657923351326401,"marketCap":14493662.022537736}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.905795979156292,"amount":34.985819931592935,"changed":0,"lostTime":5,"currentPrice":0.00017657923351326401,"marketCap":14493662.022537736}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.1056851385428972,"amount":23.23654257862784,"changed":1,"lostTime":0,"currentPrice":4.510154398838727,"marketCap":219897007.5184578}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.426939239113333,"amount":22.022883987548322,"changed":0,"lostTime":6,"currentPrice":0.00017657923351326401,"marketCap":14493662.022537736}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.603321312627225,"amount":32.41728116686297,"changed":0,"lostTime":7,"currentPrice":0.00017657923351326401,"marketCap":14493662.022537736}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.8658267438873549,"amount":44.37413125813363,"changed":1,"lostTime":0,"currentPrice":4.510154398838727,"marketCap":219897007.5184578}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:08:03 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.39447340490734295,"amount":15.882457097984211,"changed":1,"lostTime":0,"currentPrice":4.510154398838727,"marketCap":219897007.5184578}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:15:16 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.6240612570017599,"amount":17.04523566493184,"changed":1,"lostTime":0,"currentPrice":4.509107241328636,"marketCap":219845952.32365775}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:15:16 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.6240612570017599,"amount":17.04523566493184,"changed":1,"lostTime":0,"currentPrice":4.509107241328636,"marketCap":219845952.32365775}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:15:16 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.769657978667562,"amount":40.892272490702865,"changed":0,"lostTime":1,"currentPrice":0.00017744710020307764,"marketCap":14564896.709836526}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:15:16 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.26983442416191644,"amount":27.560993859660485,"changed":0,"lostTime":2,"currentPrice":0.00017744710020307764,"marketCap":14564896.709836526}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:15:16 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":4.057490732286611,"amount":43.882821677400344,"changed":0,"lostTime":3,"currentPrice":0.00017744710020307764,"marketCap":14564896.709836526}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:15:16 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.935709890415625,"amount":38.09245117073257,"changed":1,"lostTime":0,"currentPrice":4.509107241328636,"marketCap":219845952.32365775}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:15:16 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.8808727188178165,"amount":36.62024985724205,"changed":0,"lostTime":2,"currentPrice":0.00017744710020307764,"marketCap":14564896.709836526}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:15:16 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.935709890415625,"amount":38.09245117073257,"changed":1,"lostTime":0,"currentPrice":4.509107241328636,"marketCap":219845952.32365775}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:15:16 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.2435541344161511,"amount":19.395888357025008,"changed":0,"lostTime":2,"currentPrice":0.00017744710020307764,"marketCap":14564896.709836526}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:15:16 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":4.057490732286611,"amount":43.882821677400344,"changed":0,"lostTime":3,"currentPrice":0.00017744710020307764,"marketCap":14564896.709836526}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:15:16 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.805424697426897,"amount":34.418978260302914,"changed":1,"lostTime":0,"currentPrice":4.509107241328636,"marketCap":219845952.32365775}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:15:16 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.7381167164265343,"amount":33.13988683069514,"changed":0,"lostTime":2,"currentPrice":0.00017744710020307764,"marketCap":14564896.709836526}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:15:16 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.7381167164265343,"amount":33.13988683069514,"changed":0,"lostTime":3,"currentPrice":0.00017744710020307764,"marketCap":14564896.709836526}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:15:16 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.417616582374577,"amount":28.529390076582118,"changed":1,"lostTime":0,"currentPrice":4.509107241328636,"marketCap":219845952.32365775}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:15:16 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.7993079805893488,"amount":16.15778736449859,"changed":0,"lostTime":2,"currentPrice":0.00017744710020307764,"marketCap":14564896.709836526}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:15:16 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.805424697426897,"amount":34.418978260302914,"changed":1,"lostTime":0,"currentPrice":4.509107241328636,"marketCap":219845952.32365775}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":4.434299604148044,"amount":41.43655938263772,"changed":0,"lostTime":1,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":4.034368235513171,"amount":34.383032193750935,"changed":0,"lostTime":1,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.8468962583311344,"amount":24.85919169308289,"changed":0,"lostTime":2,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.1166023235511167,"amount":14.498871095054334,"changed":0,"lostTime":2,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.867677807773066,"amount":24.881945270949082,"changed":0,"lostTime":3,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.7823259805996714,"amount":30.484005756104644,"changed":0,"lostTime":3,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.6422157748387608,"amount":13.217548125321752,"changed":0,"lostTime":2,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.6187864742625924,"amount":10.747122127728508,"changed":0,"lostTime":2,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.5749359866992856,"amount":10.851360841743091,"changed":0,"lostTime":3,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.8231341913707446,"amount":25.8947033618156,"changed":0,"lostTime":3,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.5749359866992856,"amount":10.851360841743091,"changed":0,"lostTime":4,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.8231341913707446,"amount":25.8947033618156,"changed":0,"lostTime":4,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.6422157748387608,"amount":13.217548125321752,"changed":1,"lostTime":0,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.9739247664579859,"amount":36.70846953290713,"changed":0,"lostTime":2,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.5749359866992856,"amount":10.851360841743091,"changed":1,"lostTime":0,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.579089108412634,"amount":28.935829127975083,"changed":0,"lostTime":3,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.579089108412634,"amount":28.935829127975083,"changed":0,"lostTime":4,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.6422157748387608,"amount":13.217548125321752,"changed":1,"lostTime":0,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.7100115198959127,"amount":31.35930177691754,"changed":0,"lostTime":2,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.5749359866992856,"amount":10.851360841743091,"changed":1,"lostTime":0,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.230221992816996,"amount":39.222506305689464,"changed":0,"lostTime":2,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.35160960310938,"amount":16.281478786808837,"changed":0,"lostTime":3,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.35160960310938,"amount":16.281478786808837,"changed":0,"lostTime":4,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.231242007496407,"amount":40.711010537747434,"changed":1,"lostTime":0,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.8561311118674535,"amount":39.95746803923312,"changed":0,"lostTime":3,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.8561311118674535,"amount":39.95746803923312,"changed":0,"lostTime":4,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.4715964100519465,"amount":23.510072787864054,"changed":0,"lostTime":2,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.128848042194822,"amount":35.78836643520068,"changed":0,"lostTime":3,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.536082868310579,"amount":35.96709064790026,"changed":1,"lostTime":0,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.6754884306171969,"amount":38.770604773521676,"changed":0,"lostTime":2,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.231242007496407,"amount":40.711010537747434,"changed":1,"lostTime":0,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.9857831798483004,"amount":17.56208797392113,"changed":1,"lostTime":0,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.995934404732546,"amount":45.47515663997528,"changed":0,"lostTime":3,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.29131081648257834,"amount":45.17812872241582,"changed":0,"lostTime":4,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.29131081648257834,"amount":45.17812872241582,"changed":0,"lostTime":5,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.4028425925803372,"amount":18.656504271320514,"changed":0,"lostTime":3,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.238022453578117,"amount":44.06520290533635,"changed":0,"lostTime":4,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.536082868310579,"amount":35.96709064790026,"changed":1,"lostTime":0,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.8008996488413804,"amount":14.790625619738552,"changed":0,"lostTime":2,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.8008996488413804,"amount":14.790625619738552,"changed":0,"lostTime":3,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.9857831798483004,"amount":17.56208797392113,"changed":1,"lostTime":0,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.47946302420092457,"amount":44.96187605529679,"changed":1,"lostTime":0,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.7782531061571145,"amount":27.85840522740761,"changed":0,"lostTime":2,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":4.246662963139632,"amount":37.03099602237134,"changed":0,"lostTime":3,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.6434941554802913,"amount":34.58643706067191,"changed":0,"lostTime":4,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.3029469882741362,"amount":16.35320275662694,"changed":0,"lostTime":3,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.9122264929113806,"amount":23.825549016150674,"changed":0,"lostTime":4,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.9122264929113806,"amount":23.825549016150674,"changed":0,"lostTime":5,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.6944242163808823,"amount":22.95385714835128,"changed":0,"lostTime":4,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.4582056114234812,"amount":40.94043772532639,"changed":0,"lostTime":5,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.8008996488413804,"amount":14.790625619738552,"changed":0,"lostTime":2,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.8008996488413804,"amount":14.790625619738552,"changed":0,"lostTime":3,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.027077197046117,"amount":36.66415954564943,"changed":1,"lostTime":0,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.47946302420092457,"amount":44.96187605529679,"changed":1,"lostTime":0,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.423851525925705,"amount":35.15189483110026,"changed":0,"lostTime":2,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.6831013059405953,"amount":15.899830230503015,"changed":0,"lostTime":3,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":4.364608084844966,"amount":27.21536351626655,"changed":0,"lostTime":4,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":4.364608084844966,"amount":27.21536351626655,"changed":0,"lostTime":5,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.0730224012172573,"amount":13.069062863167161,"changed":0,"lostTime":2,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.728562246223379,"amount":43.896784636205645,"changed":0,"lostTime":3,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.194990879632295,"amount":11.331696813651519,"changed":0,"lostTime":4,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.0522479008036503,"amount":17.126179433841,"changed":0,"lostTime":4,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.4861365025509854,"amount":37.19409693021902,"changed":0,"lostTime":5,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.4861365025509854,"amount":37.19409693021902,"changed":0,"lostTime":6,"currentPrice":0.00017732531892033937,"marketCap":14554900.87557243}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:17:25 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.617532156626856,"amount":22.120876349225995,"changed":1,"lostTime":0,"currentPrice":4.5084994772238645,"marketCap":219816320.18779346}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:20:35 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.9498009149186077,"amount":17.45777573685805,"changed":1,"lostTime":0,"currentPrice":4.539641630866641,"marketCap":221334686.47596997}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:20:35 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.9498009149186077,"amount":17.45777573685805,"changed":1,"lostTime":0,"currentPrice":4.539641630866641,"marketCap":221334686.47596997}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:20:35 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":4.169739646002446,"amount":32.696551310905896,"changed":0,"lostTime":1,"currentPrice":0.00017786582081399366,"marketCap":14599265.388960004}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:20:35 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.8214169256639559,"amount":20.89169072550694,"changed":0,"lostTime":2,"currentPrice":0.00017786582081399366,"marketCap":14599265.388960004}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:20:35 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":0.7006092248229894,"amount":30.521690188528474,"changed":0,"lostTime":3,"currentPrice":0.00017786582081399366,"marketCap":14599265.388960004}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:20:35 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.47692548125137046,"amount":45.540778101451814,"changed":1,"lostTime":0,"currentPrice":4.539641630866641,"marketCap":221334686.47596997}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:22:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":3.322615487551687,"amount":27.69502672419862,"changed":0,"lostTime":1,"currentPrice":4.536682258802482,"marketCap":221190399.3843342}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:22:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.923648393915132,"amount":21.951140614145864,"changed":0,"lostTime":1,"currentPrice":0.00017813710749569928,"marketCap":14621532.658998651}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:22:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.7180926707686164,"amount":27.612027404921555,"changed":0,"lostTime":2,"currentPrice":4.536682258802482,"marketCap":221190399.3843342}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:22:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.353635949826121,"amount":31.021635862056222,"changed":0,"lostTime":2,"currentPrice":0.00017813710749569928,"marketCap":14621532.658998651}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:22:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.8713634837296316,"amount":18.498123237651455,"changed":0,"lostTime":3,"currentPrice":4.536682258802482,"marketCap":221190399.3843342}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:22:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.211617814753653,"amount":12.462421048654068,"changed":0,"lostTime":3,"currentPrice":0.00017813710749569928,"marketCap":14621532.658998651}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:22:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.7180926707686164,"amount":27.612027404921555,"changed":1,"lostTime":0,"currentPrice":4.536682258802482,"marketCap":221190399.3843342}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:22:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.1639888129190434,"amount":38.194240575420395,"changed":0,"lostTime":2,"currentPrice":0.00017813710749569928,"marketCap":14621532.658998651}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:22:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.7180926707686164,"amount":27.612027404921555,"changed":1,"lostTime":0,"currentPrice":4.536682258802482,"marketCap":221190399.3843342}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:22:48 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.8713634837296316,"amount":18.498123237651455,"changed":1,"lostTime":0,"currentPrice":4.536682258802482,"marketCap":221190399.3843342}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:23:58 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.6924264142356216,"amount":44.10093244745298,"changed":1,"lostTime":0,"currentPrice":4.557719144493662,"marketCap":222216073.4082988}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:23:58 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.6924264142356216,"amount":44.10093244745298,"changed":1,"lostTime":0,"currentPrice":4.557719144493662,"marketCap":222216073.4082988}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:23:58 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":4.305104449094266,"amount":39.69631546096086,"changed":0,"lostTime":1,"currentPrice":0.0001779393149716336,"marketCap":14605297.80545809}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:23:58 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.511873005484503,"amount":29.273969040967813,"changed":0,"lostTime":2,"currentPrice":0.0001779393149716336,"marketCap":14605297.80545809}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:23:58 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":3.9162702903477626,"amount":22.28723207642377,"changed":0,"lostTime":3,"currentPrice":0.0001779393149716336,"marketCap":14605297.80545809}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:24:31 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.731675336056264,"amount":16.23305317142826,"changed":1,"lostTime":0,"currentPrice":4.553806567272406,"marketCap":222025311.86300594}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:24:31 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":1.731675336056264,"amount":16.23305317142826,"changed":1,"lostTime":0,"currentPrice":4.553806567272406,"marketCap":222025311.86300594}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:24:31 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":4.01057826610351,"amount":39.35628951568142,"changed":0,"lostTime":1,"currentPrice":0.00017787262338179321,"marketCap":14599823.74520955}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:24:31 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.9919228501538266,"amount":36.01253647465736,"changed":0,"lostTime":2,"currentPrice":0.00017787262338179321,"marketCap":14599823.74520955}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:24:31 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.9919228501538266,"amount":36.01253647465736,"changed":0,"lostTime":3,"currentPrice":0.00017787262338179321,"marketCap":14599823.74520955}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:24:31 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.437969597137154,"amount":31.809916965165094,"changed":0,"lostTime":2,"currentPrice":0.00017787262338179321,"marketCap":14599823.74520955}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:24:31 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.9919228501538266,"amount":36.01253647465736,"changed":0,"lostTime":2,"currentPrice":0.00017787262338179321,"marketCap":14599823.74520955}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:24:31 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.437969597137154,"amount":31.809916965165094,"changed":0,"lostTime":2,"currentPrice":0.00017787262338179321,"marketCap":14599823.74520955}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:24:31 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.437969597137154,"amount":31.809916965165094,"changed":0,"lostTime":3,"currentPrice":0.00017787262338179321,"marketCap":14599823.74520955}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:24:31 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.437969597137154,"amount":31.809916965165094,"changed":0,"lostTime":2,"currentPrice":0.00017787262338179321,"marketCap":14599823.74520955}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:24:31 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4646734230284713,"amount":24.817172960660216,"changed":0,"lostTime":1}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:24:31 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":4.059655568897555,"amount":21.649871517602772,"changed":0,"lostTime":1}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:24:31 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4646734230284713,"amount":24.817172960660216,"changed":0,"lostTime":2}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:24:31 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":4.059655568897555,"amount":21.649871517602772,"changed":0,"lostTime":2}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:24:31 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4646734230284713,"amount":24.817172960660216,"changed":0,"lostTime":3}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:24:31 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":4.059655568897555,"amount":21.649871517602772,"changed":0,"lostTime":3}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":1,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":1,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":2,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":2,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":3,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":3,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":2,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":2,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":2,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":2,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":2,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":2,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":3,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":3,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":2,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":2,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":3,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":3,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":4,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":4,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":5,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":5,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":6,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":6,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":7,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":7,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":8,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":8,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":3,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":3,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":4,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":4,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":6,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":6,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":7,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":7,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":8,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":8,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":3,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":3,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":4,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":4,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":7,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":7,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":8,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":8,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":9,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":9,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":3,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":3,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":4,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":4,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":4,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":4,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":6,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":6,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":7,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":7,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":8,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":8,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":3,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":3,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":4,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":4,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":5,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":5,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":6,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":6,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":7,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":7,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":8,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":8,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":3,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":3,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":4,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":4,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":5,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":5,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":7,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":7,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":3,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":3,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":4,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":4,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":5,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":5,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":6,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":6,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":7,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":7,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":8,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":8,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":9,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":9,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":6,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":6,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":5,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":5,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":4,"currentPrice":4.562031650533467,"marketCap":222426333.87594363}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":4,"currentPrice":0.00017845687091334748,"marketCap":14647778.910102785}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":7,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":7,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":8,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":8,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":9,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":9,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":10,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":10,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":11,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":11,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":12,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":12,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":13,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":13,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":8,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":8,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":5,"currentPrice":4.562031650533467,"marketCap":222426333.87594363}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":5,"currentPrice":0.00017845687091334748,"marketCap":14647778.910102785}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":6,"currentPrice":4.562031650533467,"marketCap":222426333.87594363}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":6,"currentPrice":0.00017845687091334748,"marketCap":14647778.910102785}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":7,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":7,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":6,"currentPrice":4.562031650533467,"marketCap":222426333.87594363}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":6,"currentPrice":0.00017845687091334748,"marketCap":14647778.910102785}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":6,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":6,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":5,"currentPrice":4.557358655254166,"marketCap":222198497.40136042}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":5,"currentPrice":0.0001784729659129632,"marketCap":14649099.991183734}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":4,"currentPrice":4.562031650533467,"marketCap":222426333.87594363}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":4,"currentPrice":0.00017845687091334748,"marketCap":14647778.910102785}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":5,"currentPrice":4.562031650533467,"marketCap":222426333.87594363}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":5,"currentPrice":0.00017845687091334748,"marketCap":14647778.910102785}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":6,"currentPrice":4.562031650533467,"marketCap":222426333.87594363}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":6,"currentPrice":0.00017845687091334748,"marketCap":14647778.910102785}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":7,"currentPrice":4.562031650533467,"marketCap":222426333.87594363}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":7,"currentPrice":0.00017845687091334748,"marketCap":14647778.910102785}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":8,"currentPrice":4.562031650533467,"marketCap":222426333.87594363}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":8,"currentPrice":0.00017845687091334748,"marketCap":14647778.910102785}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":9,"currentPrice":4.562031650533467,"marketCap":222426333.87594363}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":9,"currentPrice":0.00017845687091334748,"marketCap":14647778.910102785}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":6,"currentPrice":4.562031650533467,"marketCap":222426333.87594363}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":6,"currentPrice":0.00017845687091334748,"marketCap":14647778.910102785}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":7,"currentPrice":4.562031650533467,"marketCap":222426333.87594363}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":7,"currentPrice":0.00017845687091334748,"marketCap":14647778.910102785}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":8,"currentPrice":4.562031650533467,"marketCap":222426333.87594363}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":8,"currentPrice":0.00017845687091334748,"marketCap":14647778.910102785}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":9,"currentPrice":4.562031650533467,"marketCap":222426333.87594363}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":9,"currentPrice":0.00017845687091334748,"marketCap":14647778.910102785}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":10,"currentPrice":4.562031650533467,"marketCap":222426333.87594363}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":10,"currentPrice":0.00017845687091334748,"marketCap":14647778.910102785}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":4,"currentPrice":4.562031650533467,"marketCap":222426333.87594363}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":4,"currentPrice":0.00017845687091334748,"marketCap":14647778.910102785}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":2.4928719921184346,"amount":30.42606556957996,"changed":0,"lostTime":5,"currentPrice":4.562031650533467,"marketCap":222426333.87594363}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:27:28 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":1.9739261951500133,"amount":43.965632215858435,"changed":0,"lostTime":5,"currentPrice":0.00017845687091334748,"marketCap":14647778.910102785}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:33:02 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.9357788331596878,"amount":42.24745388119336,"changed":1,"lostTime":0,"currentPrice":4.576303689168064,"marketCap":223122181.13734043}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:33:02 GMT-0700 (Pacific Daylight Time) 
+{"name":"Orca","symbol":"ORCA","initialPrice":0.9357788331596878,"amount":42.24745388119336,"changed":1,"lostTime":0,"currentPrice":4.576303689168064,"marketCap":223122181.13734043}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:33:02 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.4876533963432683,"amount":20.268622107043836,"changed":0,"lostTime":1,"currentPrice":0.00017837707860484634,"marketCap":14641229.540007537}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:33:02 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.4876533963432683,"amount":20.268622107043836,"changed":0,"lostTime":2,"currentPrice":0.00017837707860484634,"marketCap":14641229.540007537}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:33:02 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.4876533963432683,"amount":20.268622107043836,"changed":0,"lostTime":3,"currentPrice":0.00017837707860484634,"marketCap":14641229.540007537}
+------------- token swap ---------------
+ log time: Wed Mar 13 2024 09:33:02 GMT-0700 (Pacific Daylight Time) 
+{"name":"ANALOS","symbol":"ANALOS","initialPrice":2.4876533963432683,"amount":20.268622107043836,"changed":0,"lostTime":4,"currentPrice":0.00017837707860484634,"marketCap":14641229.540007537}

@@ -11,8 +11,9 @@ const {
   Authorized,
 } = require("@solana/web3.js");
 // ==================== txt storage =========================
-const tokenStorage = "./helper/token.txt";
-const logStrorage = "./helper/log.txt";
+const initialTokenStorage = "./helper/initialToken.txt";
+const tradeTokenStorage = "./helper/tradeToken.txt";
+const logStorage = "./helper/log.txt";
 // ==================== env variable ========================
 const RPC_CHAIN = process.env.RPC_CHAIN;
 const TOKEN_AMOUNT = process.env.TOKEN_AMOUNT;
@@ -22,11 +23,12 @@ const SELL_MARKETCAP = process.env.SELL_MARKETCAP;
 const TRADE_WINDOW = process.env.TRADE_WINDOW;
 const PROFIT_RATIO = process.env.PROFIT_RATIO;
 const WALLET_SECRET_KEY = process.env.WALLET_SECRET_KEY;
-const MAX_LOST_LAST_OFF = process.env.MAX_LOST_LAST_OFF;
+const MAX_LAST_LOST_TRADES = process.env.MAX_LAST_LOST_TRADES;
 // =================== local variable =======================
 const connection = new Connection(clusterApiUrl(RPC_CHAIN), "confirmed");
-const cmcTokenURL = `https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest`;
-const cmcPriceURL = `https://pro-api.coinmarketcap.com/v2/cryptocurrency/price-performance-stats/latest`;
+// const cmcTokenURL = `https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest`;
+const cmcTokenURL = `https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest`;
+// const cmcPriceURL = `https://pro-api.coinmarketcap.com/v2/cryptocurrency/price-performance-stats/latest`;
 const coinmarketcap_key = "4206945b-936f-4b90-a409-5576fb0d6f1c";
 // const payer = Keypair.fromSecretKey(WALLET_SECRET_KEY);
 // const jupiter = Jupiter.load({
@@ -34,16 +36,19 @@ const coinmarketcap_key = "4206945b-936f-4b90-a409-5576fb0d6f1c";
 //   cluster: RPC_CHAIN,
 //   user: payer,
 // });
+const logTime = `log time: ${new Date()}`;
 const LOG_TAG = {
-  tokenSwap: "\n------------- token swap ---------------\n",
-  solSwap: "\n--------------- sol swap -----------------\n",
-  tradeResult: "\n--------------- trade result -----------------\n",
-  botStarted: "\n---------------- bot started ------------------\n",
-  botStopped: "\n----------------- bot stopped -------------------\n",
-  buyToken: "\n------------------ buy Token --------------------\n",
-  sellToken: "\n------------------ sell Token --------------------\n",
+  solSwap: `\n--------------- sol swap -----------------\n ${logTime} \n`,
+  tokenSwap: `\n------------- token swap ---------------\n ${logTime} \n`,
+  tradeResult: `\n--------------- trade result -----------------\n ${logTime} \n`,
+  botStarted: `\n---------------- bot started ------------------\n ${logTime} \n`,
+  botStopped: `\n----------------- bot stopped -------------------\n ${logTime} \n`,
+  buyToken: `\n------------------ buy Token --------------------\n ${logTime} \n`,
+  sellToken: `\n------------------ sell Token --------------------\n ${logTime} \n`,
 };
-const intervalTimeline = 10000;
+const sleepTime = 2000;
+const timeDuration = sleepTime;
+let STOP = true;
 // ==========================================================
 //  buy token
 const buyToken = async () => {};
@@ -70,119 +75,160 @@ const swap = async (input, output, inputAmount) => {
 
 //  monitor trade with SELL_MAKRETCAP
 const tradeWithMarketCap = async (tokens) => {
+  let logTxt = fs.readFileSync(logStorage, "utf8");
   const RANGE = {
-    MIN: JSON.parse(MAX_MARKETCAP)[0],
-    MAX: JSON.parse(MAX_MARKETCAP)[1],
+    MIN: JSON.parse(SELL_MARKETCAP)[0],
+    MAX: JSON.parse(SELL_MARKETCAP)[1],
   };
-  await axios
-    .get(cmcTokenURL, {
-      headers: {
-        "X-CMC_PRO_API_KEY": coinmarketcap_key,
-      },
-      params: {
-        // start: 6,
-        // limit: 10,
-        market_cap_min: RANGE.MIN,
-        market_cap_max: RANGE.MAX,
-        cryptocurrency_type: "tokens",
-      },
-    })
-    .then((res) => {
-      console.log("res: ", res.data);
-    });
+  const tempTokens = tokens.map((token) => {
+    if (
+      token.currentPrice >= token.initialPrice * PROFIT_RATIO ||
+      (token.marketCap >= RANGE.MIN && token.marketCap <= RANGE.MAX)
+    ) {
+      // await swap(token.address, WSOL_ADDRESS, token.amount);
+      token = { ...token, changed: 1, lostTime: 0 };
+      logTxt += LOG_TAG.tokenSwap + JSON.stringify(token);
+      return token;
+    } else return token;
+  });
+  fs.writeFileSync(tradeTokenStorage, JSON.stringify(tempTokens), "utf8");
+  fs.writeFileSync(logStorage, logTxt, "utf8");
 };
 
 //  monitor trade with TRADE_WINDOW
 const tradeWithTradeWindow = async (tokens) => {
-  let logTxt = fs.readFileSync(logStrorage, "utf8");
-  const endTime = Date.now() + TRADE_WINDOW * 60 * 1000;
-  setTimeout(async () => {
-    const currentTime = Date.now();
-    if (currentTime < endTime) {
-      await axios
-        .get(cmcPriceURL, {
-          headers: { "X-CMC_PRO_API_KEY": coinmarketcap_key },
-          params: {
-            slug: "solana",
-            symbol: "ORCA",
-          },
-        })
-        .then((res) => {
-          // const currentPrice = res.data.prices;
-          const currentPrice = [];
-          for (let i = 0; i < tokens.length; i++) {
-            if (tokens[i] * PROFIT_RATIO >= currentPrice[i]) {
-              // swap token to SOL again
-              const swatResult = swap(
-                tokens[i].address,
-                WSOL_ADDRESS,
-                tokens[i].amount
-              );
-              logTxt += LOG_TAG.tokenSwap + JSON.stringify(swatResult);
-              tokens[i].lostTime = 0;
-            } else {
-              // tokens[i].lostTime++;
-            }
-          }
-        });
-    } else {
-      console.log("Time is over!");
-    }
-  }, intervalTimeline);
-
-  fs.writeFileSync(tokenStorage, JSON.stringify(tokens), "utf8");
+  let logTxt = fs.readFileSync(logStorage, "utf8");
+  const tempTokens = tokens.map((token) => {
+    if (token.currentPrice >= token.initialPrice * PROFIT_RATIO) {
+      // await swap(token.address, WSOL_ADDRESS, token.amount);
+      token = { ...token, changed: 1, lostTime: 0 };
+      logTxt += LOG_TAG.tokenSwap + JSON.stringify(token);
+      return token;
+    } else return token;
+  });
+  // console.log("window: ", tempTokens);
+  fs.writeFileSync(tradeTokenStorage, JSON.stringify(tempTokens), "utf8");
+  fs.writeFileSync(logStorage, logTxt, "utf8");
 };
 
 //  monitor trade
 const monitoringTrade = async () => {
-  let logTxt = fs.readFileSync(logStrorage, "utf8");
-  const tokens = JSON.parse(fs.readFileSync(tokenStorage, "utf8"));
+  // setTimeout(async () => {
+  let tokens = JSON.parse(fs.readFileSync(tradeTokenStorage, "utf8"));
+  tokens = await updateTokens(tokens);
   if (TRADE_WINDOW == 0) {
-    tradeWithMarketCap(tokens);
+    await tradeWithMarketCap(tokens);
+    await sleep(sleepTime);
+    monitoringTrade();
   } else {
-    // if TRADE_WINDOW is not null, MAX_MARKETCAP is not active!
-    const stopToken = tokens.filter((each) => each.lostTime == 2);
-    if (stopToken.length > 0) {
-      logTxt += LOG_TAG.stopTrade;
-      stopTrade();
-    } else {
-      tradeWithTradeWindow(tokens);
-    }
+    const endTime = Date.now() + TRADE_WINDOW * 60 * 1000;
+    setInterval(async () => {
+      const currentTime = Date.now();
+      if (currentTime <= endTime) {
+        await tradeWithTradeWindow(tokens);
+      } else {
+        tokens = JSON.parse(fs.readFileSync(tradeTokenStorage, "utf8"));
+        let logTxt = fs.readFileSync(logStorage, "utf8");
+        const tempTokens = tokens.map((token) => {
+          if (token?.changed == 0) {
+            // swap(token, WSOL_ADDRESS, token.amount);
+            token = { ...token, lostTime: token?.lostTime + 1 };
+            logTxt += LOG_TAG.tokenSwap + JSON.stringify(token);
+            return token;
+          } else return token;
+        });
+
+        fs.writeFileSync(tradeTokenStorage, JSON.stringify(tempTokens), "utf8");
+        fs.writeFileSync(logStorage, logTxt, "utf8");
+        console.log("Time is over!");
+        //  check max_lost_last_TRADES
+        console.log("MAX_LOST: ", MAX_LAST_LOST_TRADES);
+        console.log("tempTokens: ", tempTokens);
+
+        const isLostToken = tempTokens.filter(
+          (token) => token.lostTime === Number(MAX_LAST_LOST_TRADES)
+        );
+        console.log("isLostToken: ", isLostToken);
+        if (isLostToken.length > 0) {
+          stopTrade();
+        } else {
+          STOP = false;
+          await sleep(sleepTime);
+          monitoringTrade();
+        }
+      }
+    }, timeDuration);
   }
-  fs.writeFileSync(logStrorage, logTxt, "utf8");
+  // }, timeDuration);
+  //========================================================================================
+};
+
+//  udpate tokens
+const updateTokens = async (tokens) => {
+  let symbolArr = [];
+  tokens.map((each) => symbolArr.push(each.symbol));
+  const res = await axios.get(cmcTokenURL, {
+    headers: {
+      "X-CMC_PRO_API_KEY": coinmarketcap_key,
+    },
+    params: {
+      symbol: symbolArr.join(),
+    },
+  });
+  const resdata = res.data.data;
+  let Arr = [];
+  tokens.map((each) => {
+    let temp = each;
+    const currentPrice = resdata[each.symbol]?.quote.USD.price;
+    const marketCap = resdata[each.symbol]?.quote.USD.market_cap;
+    temp = { ...each, currentPrice, marketCap };
+    Arr.push(temp);
+  });
+
+  return Arr;
 };
 
 //  start trade
 const startTrade = async () => {
+  // STOP = false;
+  console.log(LOG_TAG.botStarted);
   //  step1: sol swap to tokens
-  const tokens = JSON.parse(fs.readFileSync(tokenStorage, "utf8"));
+  const logTxt = fs.readFileSync(logStorage, "utf8");
+  const tokens = JSON.parse(
+    fs.readFileSync(STOP ? initialTokenStorage : tradeTokenStorage, "utf8")
+  );
   const updateTokens = [];
   tokens.forEach(async (token) => {
     // const swapResult = await swap(WSOL_ADDRESS, token.address, TRADE_SIZE);
-    const swapResult = { price: 0 };
+    const swapResult = {
+      price: Math.random() * (4.455555 - 0.000001) + 0.000001,
+      amount: Math.random() * (45.888784 - 10.5453763) + 10.5453763,
+    };
     updateTokens.push({
       ...token,
-      price: swapResult?.price || 0,
-      lostTime: 0,
+      initialPrice:
+        swapResult?.price || Math.random() * (4.455555 - 0.000001) + 0.000001,
+      amount:
+        swapResult?.amount ||
+        Math.random() * (45.888784 - 10.5453763) + 10.5453763,
+      changed: STOP ? 0 : token.changed,
+      lostTime: STOP ? 0 : token.lostTime,
     });
   });
-  const logTxt = fs.readFileSync(logStrorage, "utf8");
-  fs.writeFileSync(
-    logStrorage,
-    logTxt +
-      "\n" +
-      LOG_TAG.solSwap +
-      JSON.stringify(updateTokens) +
-      `\n log time: ${new Date()}`
-  );
+  fs.writeFileSync(tradeTokenStorage, JSON.stringify(updateTokens));
   //  step2: filter and monitor trade
 };
 
 //  stop trade
 const stopTrade = async () => {
-  console.log(LOG_TAG.startTrade);
+  STOP = true;
+  console.log(LOG_TAG.botStopped);
 };
 
+// sleep
+const sleep = async (ms) => {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+};
 //  repeat monitoring trade
 const executeBot = async () => {
   await startTrade();
