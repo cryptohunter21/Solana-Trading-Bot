@@ -26,16 +26,11 @@ const WALLET_SECRET_KEY = process.env.WALLET_SECRET_KEY;
 const MAX_LAST_LOST_TRADES = process.env.MAX_LAST_LOST_TRADES;
 // =================== local variable =======================
 const connection = new Connection(clusterApiUrl(RPC_CHAIN), "confirmed");
-// const cmcTokenURL = `https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest`;
+
 const cmcTokenURL = `https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest`;
-// const cmcPriceURL = `https://pro-api.coinmarketcap.com/v2/cryptocurrency/price-performance-stats/latest`;
+
 const coinmarketcap_key = "4206945b-936f-4b90-a409-5576fb0d6f1c";
-// const payer = Keypair.fromSecretKey(WALLET_SECRET_KEY);
-// const jupiter = Jupiter.load({
-//   connection,
-//   cluster: RPC_CHAIN,
-//   user: payer,
-// });
+
 const logTime = `log time: ${new Date()}`;
 const LOG_TAG = {
   solSwap: `\n--------------- sol swap -----------------\n ${logTime} \n`,
@@ -199,7 +194,7 @@ const startTrade = async () => {
   );
   const updateTokens = [];
   tokens.forEach(async (token) => {
-    // const swapResult = await swap(WSOL_ADDRESS, token.address, TRADE_SIZE);
+
     const swapResult = {
       price: Math.random() * (4.455555 - 0.000001) + 0.000001,
       amount: Math.random() * (45.888784 - 10.5453763) + 10.5453763,
